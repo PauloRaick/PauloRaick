@@ -3,7 +3,7 @@
 Olá! Eu sou Paulo Raick Montel de Andrade, um entusiasta apaixonado por tecnologia e desenvolvimento. Atualmente, estou dedicado à minha graduação em Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera, onde continuo aprimorando minhas habilidades em programação e desenvolvimento de software. Estou empolgado com a oportunidade de aprender, crescer e contribuir para o mundo da tecnologia.
 
 
-<img loading="lazy" src="" width="20" height="20"/>
+
 ## 
 
 🧠 Estou atualmente focado no aprendizado de desenvolvimento Back-End, com ênfase na linguagem C#/.NET. Participei do curso Google Cloud Computing Foundations, onde adquiri conhecimentos essenciais sobre a plataforma de Cloud do Google. Além disso, possuo conhecimentos introdutórios sobre a Plataforma Dynamics 365 e a Power Platform.
